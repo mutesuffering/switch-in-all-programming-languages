@@ -1,0 +1,28 @@
+<?php
+
+$day_number = 3;
+switch($day_number) {
+    case 1:
+        echo("Saturday");
+        break;
+    case 2:
+        echo("Sunday");
+        break;
+    case 3:
+        echo("Monday");
+        break;
+    case 4:
+        echo("Tuesday");
+        break;
+    case 5:
+        echo("Wednesday");
+        break;
+    case 6:
+        echo("Thursday");
+        break;
+    case 7:
+        echo("Friday");
+        break;
+}
+
+?>
