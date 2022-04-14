@@ -1,6 +1,6 @@
 <?php
+$day_number;
 
-$day_number = 3;
 switch($day_number) {
     case 1:
         echo("Saturday");
