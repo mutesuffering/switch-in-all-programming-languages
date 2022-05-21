@@ -79,7 +79,7 @@ The main porpuse of this repo is showing how is the switch statement be used.
   <ul>
     <il>
       <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.php">PHP</a>
-      <il>
+    <il>
   </ul>
 </details>
 <details>
@@ -87,7 +87,11 @@ The main porpuse of this repo is showing how is the switch statement be used.
   <ul>
     <il>
       <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.rb">Ruby</a>
-      <il>
+    <il>
+    <br>
+    <il>
+      <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.ru">Rust</a>
+    </il>
   </ul>
 </details>
 <details>
