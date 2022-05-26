@@ -90,7 +90,7 @@ The main porpuse of this repo is showing how is the switch statement be used.
     <il>
     <br>
     <il>
-      <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.ru">Rust</a>
+      <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.rs">Rust</a>
     </il>
   </ul>
 </details>
