@@ -7,7 +7,7 @@ This is a collection of codes that uses switch statement in all programming lang
 We used the week days as example to show the switch usage. ⏲️
 The main porpuse of this repo is showing how is the switch statement be used.
 
-##### This repo has been created by [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar) $ [Khayal_Dev](https://github.com/Khayal-Dev)
+##### This repo has been created by [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar) & [Khayal_Dev](https://github.com/Khayal-Dev)
 
 ---
 
@@ -64,6 +64,14 @@ The main porpuse of this repo is showing how is the switch statement be used.
     <il>
       <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.js">JavaScript</a>
     </il>
+  </ul>
+</details>
+<details>
+  <summary>K</summary>
+  <ul>
+    <il>
+      <a href="https://github.com/In-All-Programming-Languages/switch-in-all-programming-languages/blob/main/switch.kt">Kotlin</a>
+      <il>
   </ul>
 </details>
 <details>
